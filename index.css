@@ -1,0 +1,39 @@
+body {
+  background-color: lightyellow;
+  font-family: Arial;
+}
+img {
+  padding-left: 4px;
+  padding-bottom: 4px;
+  padding-right: 10px;
+}
+table,
+th,
+td {
+  border-top: 10px;
+  border: 2px black;
+  border-collapse: collapse;
+  border-style: double;
+  text-align: center;
+}
+th,
+td {
+  padding: 10px;
+}
+th {
+  background-color: darkcyan;
+  color: white;
+}
+.organisasi {
+  padding-top: 20px;
+  background-color: lightblue;
+  font-family: "Franklin Gothic Medium";
+}
+.matkul {
+  background-color: cadetblue;
+  font-family: Georgia;
+}
+#menu {
+  font-family: "Times New Roman";
+  background-color: turquoise;
+}
